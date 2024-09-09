@@ -1,9 +1,27 @@
-# Desafío Opcional N°1 
-## El código contiene una libreria propia con una única función para comprobar si un número es primo o no.
+# 🧮 Verificador de Números Primos
 
-Para ejecutar el codigo tiene que ejecutarlo localmente en su maquina de python
- - Si esta en:
-      1. Windows: Toca la tecla de windows(![win](https://imgs.search.brave.com/KjkVlFwjDF5I3XCtKYA6RzNOJpoVXpBxr26kk7A0mHk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3MvbS83/MS9taWNyb3NvZnQt/d2luZG93cy0yMi5z/dmc)) py main.py
+Este script en Python verifica si un número dado es primo o no. Un número primo es un número natural mayor que 1 que no tiene divisores positivos más que 1 y sí mismo.
 
+## 📋 Tabla de Contenidos
 
-![Friman](https://i.imgur.com/Gzu4NLj.gif)
+- [Requisitos Previos](#requisitos-previos)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Ejemplos](#ejemplos)
+- [Instrucciones de Ejecución](#instrucciones-de-ejecución)
+  - [Windows](#windows)
+  - [Linux](#linux)
+  - [macOS](#macos)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
+
+## 📚 Requisitos Previos
+
+Antes de empezar, asegúrate de tener Python instalado en tu sistema. El script es compatible con Python 3.x.
+
+Puedes verificar si Python está instalado ejecutando el siguiente comando en tu terminal:
+
+```sh
+python --version
+```
+
