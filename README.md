@@ -24,5 +24,5 @@ Para utilizar el script, simplemente ejecútalo e introduce el número que desea
 ```sh
 python main.py
 ```
-
+![friman](https://i.imgur.com/Gzu4NLj.gif)
 
