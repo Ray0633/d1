@@ -5,15 +5,7 @@ Este script en Python verifica si un número dado es primo o no. Un número prim
 ## 📋 Tabla de Contenidos
 
 - [Requisitos Previos](#requisitos-previos)
-- [Instalación](#instalación)
 - [Uso](#uso)
-- [Ejemplos](#ejemplos)
-- [Instrucciones de Ejecución](#instrucciones-de-ejecución)
-  - [Windows](#windows)
-  - [Linux](#linux)
-  - [macOS](#macos)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## 📚 Requisitos Previos
 
@@ -24,4 +16,13 @@ Puedes verificar si Python está instalado ejecutando el siguiente comando en tu
 ```sh
 python --version
 ```
+
+## 🚀 Uso
+
+Para utilizar el script, simplemente ejecútalo e introduce el número que deseas verificar:
+
+```sh
+python main.py
+```
+
 
